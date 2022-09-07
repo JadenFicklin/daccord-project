@@ -60,4 +60,7 @@ const Content = styled.div`
   p {
     margin: 0 30px 0 100px;
   }
+  h1 {
+    margin-top: 200px;
+  }
 `;
